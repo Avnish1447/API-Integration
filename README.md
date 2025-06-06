@@ -1,4 +1,4 @@
-# 🌤️ Weather API Integration with Python
+# 🌤️ Weather API Integration with Python [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 This project is a command-line Python application that fetches and displays real-time weather information for any specified city using the OpenWeatherMap API. It demonstrates how to interact with external APIs, parse JSON data, and handle potential errors gracefully.
 
@@ -102,7 +102,12 @@ Contributions are welcome! Please follow these steps:
 5. Open a pull request.
 
 ---
+## License
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
+This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
+---
 ## 📬 Contact
 
 For any inquiries or feedback, please contact [your.email@example.com](mailto:your.email@example.com).
